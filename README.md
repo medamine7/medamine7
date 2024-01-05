@@ -1,3 +1,3 @@
-<h1 align="center">Hi there 👋 I'm Mohamed Amine</h1>
-<h3 align="center">A full stack developer from Morocco 🇲🇦, with a great passion for coding 💻</h3>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> I'm Mohamed Amine</h1>
+<h3 align="center">A full stack developer from Morocco <img src="https://media.giphy.com/media/jMtGLVytJChCuseA6E/giphy.gif" width="28" /> with a great passion for coding <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="32" /></h3>
 <p align="center">Check out my <a href="https://baladi.codes" target="_blank">✨ portfolio ✨</a> to learn more about my experience, and find ways to collaborate on exciting projects.</p>
